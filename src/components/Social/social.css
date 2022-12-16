@@ -1,0 +1,22 @@
+.social__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 317px;
+    height: 64px;
+    background: #161619;
+    border-radius: 0px 0px 15px 15px;
+    text-align: center;
+}
+.social__container div{
+    color:#F3BF99;
+    margin-top :10px;
+    margin-left: 15px;
+}
+
+.social__container  p{
+    font-size: 8px;
+    text-align: center;
+    color:#F3BF99;
+    margin-top: 0;
+}
